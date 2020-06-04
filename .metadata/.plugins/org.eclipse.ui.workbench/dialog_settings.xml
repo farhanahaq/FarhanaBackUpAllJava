@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="ImportExportAction">
+		<item key="ImportExportPage.STORE_SELECTED_IMPORT_WIZARD_ID" value="org.eclipse.ui.wizards.import.FileSystem"/>
+		<list key="ImportExportPage.STORE_EXPANDED_IMPORT_CATEGORIES">
+			<item value="org.eclipse.ui.Basic"/>
+		</list>
+	</section>
+	<section name="WorkbenchPreferenceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="163"/>
+		<item key="DIALOG_Y_ORIGIN" value="73"/>
+	</section>
+	<section name="FileSystemExportWizard">
+	</section>
+	<section name="FileSystemImportWizard">
+		<item key="WizardFileSystemResourceImportPage1.STORE_OVERWRITE_EXISTING_RESOURCES_ID" value="false"/>
+		<item key="WizardFileSystemResourceImportPage1.STORE_CREATE_CONTAINER_STRUCTURE_ID" value="false"/>
+		<list key="WizardFileSystemResourceImportPage1.STORE_SOURCE_NAMES_ID">
+			<item value="C:\Users\14693\eclipse-workspace-1\Review2"/>
+			<item value="C:\Users\14693\eclipse-workspace-1\Review 1"/>
+			<item value="C:\Users\14693\eclipse-workspace-1\MyPractiseProj"/>
+			<item value="C:\Users\14693\eclipse-workspace-1\Class10"/>
+			<item value="C:\Users\14693\eclipse-workspace-1\CLass9Old"/>
+			<item value="C:\Users\14693\eclipse-workspace-1\Class9"/>
+			<item value="C:\Users\14693\eclipse-workspace-1\Class8"/>
+			<item value="C:\Users\14693\eclipse-workspace-1\Class7"/>
+			<item value="C:\Users\14693\eclipse-workspace-1\Class6"/>
+			<item value="C:\Users\14693\eclipse-workspace-1\Class5"/>
+			<item value="C:\Users\14693\eclipse-workspace-1\Class4"/>
+			<item value="C:\Users\14693\eclipse-workspace-1\CLass3"/>
+			<item value="C:\Users\14693\eclipse-workspace-1\Class2"/>
+		</list>
+	</section>
+	<section name="NewWizardAction">
+	</section>
+</section>
